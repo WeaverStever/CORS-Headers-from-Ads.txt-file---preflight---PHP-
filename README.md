@@ -13,6 +13,6 @@ IAB Tech Lab (<a href="https://iabtechlab.com/wp-content/uploads/2019/03/IAB-Ope
 <p>The most obvious language for this would be PHP, and an outfit called <a href="https://wpsandbox.net/development/send-cors-headers-php-p909" title="CORS code tutorial">WPsandbox.net</a> has a PHP example for how to make the dynamic responses.</p>
 
 <a href="https://www.juannicolas.eu/how-to-set-up-nginx-cors-multiple-origins/">NGINX example</a><br>
-<a href="https://httpd.apache.org/docs/2.2/mod/mod_headers.html#header">APACHE example</a><br>
+<a href="https://ubiq.co/tech-blog/set-access-control-allow-origin-cors-headers-apache/">APACHE example</a><br>
 
 
